@@ -1,8 +1,8 @@
-📝 Générateur de CV (Python & Tkinter)
+**📝 Générateur de CV (Python & Tkinter)**
 
 Une application pour créer votre CV au format HTML en quelques clics. 
 
-🌟 Pourquoi utiliser cet outil ?
+**🌟 Pourquoi utiliser cet outil ?**
 
 Interface Intuitive : Une saisie organisée par onglets (Coordonnées, Expériences, Compétences).
 
@@ -12,13 +12,13 @@ Rendu Pro : Génère un fichier HTML élégant avec un design CSS "Premium" (com
 
 Zéro Dépendance : Fonctionne avec l'installation standard de Python (utilise uniquement tkinter).
 
-🛠️ Fonctionnalités clés
+**🛠️ Fonctionnalités clés**
 
 Gestion des missions : Saisie ligne par ligne pour chaque expérience professionnelle.
 
 Liens Sociaux : Intégration cliquable de vos profils LinkedIn et GitHub.
 
-Sections Modulables :
+*Sections Modulables :*
 
 Résumé professionnel / Accroche.
 
@@ -30,11 +30,11 @@ Compétences techniques et comportementales dissociées.
 
 Langues et Centres d'intérêt sous forme de "badges" visuels.
 
-🚀 Démarrage Rapide
+**🚀 Démarrage Rapide**
 
 Prérequis : Python 3
 
-Lancer l'application :
+*Lancer l'application :*
 
 python3 cv_gen.py
 
@@ -42,7 +42,7 @@ Saisir les données : Remplissez les onglets.
 
 Enregistrer : Cliquez sur "Générer" pour obtenir votre fichier .html.
 
-🎨 Aperçu du Design HTML
+**🎨 Aperçu du Design HTML**
 
 Le CV généré utilise :
 
@@ -50,6 +50,6 @@ Une typographie Segoe UI moderne.
 
 Des badges de couleurs différenciées pour les compétences techniques et générales.
 
-📄 Licence
+**📄 Licence**
 
 Ce projet est sous licence MIT. Vous êtes libre de le modifier et de l'utiliser.
